@@ -25,6 +25,8 @@ This repository contains my training completed at Holberton School.
 | 1. [Sysadmin & Devops - Bash](https://github.com/jacobbhartman/holberton-system_engineering-devops) |
 | 2. [Low-level programming & Algorithms](https://github.com/jacobbhartman/holbertonschool-low_level_programming) |
 | 3. [Higher-level programming](https://github.com/jacobbhartman/holbertonschool-higher_level_programming) |
-| 4. [printf](https://github.com/jacobbhartman/printf) |
-| 5. [Concepts Shell](https://github.com/vilyanare/simple_shell)|
+| 4. [Concepts Shell](https://github.com/vilyanare/simple_shell)|
+| 5. [printf](https://github.com/jacobbhartman/printf) |
 | 6. [monty](https://github.com/jacobbhartman/monty) |
+| 7. [zero-day](https://github.com/JacobBHartman/holbertonschool-zero_day) |
+| 8. [my_first_repository](https://github.com/JacobBHartman/my_first_repository) |
