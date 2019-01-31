@@ -9,7 +9,7 @@ in San Francisco, CA. The school provides a low-level, higher-level, and sysadmi
 create a true Full Stack Engineering program.
 
 ## Author
-**David Yoon**
+**Jacob Hartman**
 * Full Stack Software Engineer in-training at [Holberton School](https://holbertonschool.com)
 * [Linkedin](https://www.linkedin.com/in/jacob-hartman-860626148/)
 * [Website](http://www.jacobbhartman.com)
